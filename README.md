@@ -130,10 +130,15 @@ Tambahkan layout untuk menu Contact yang berisi form isian: nama, email, message
 
 ![image](https://user-images.githubusercontent.com/101417081/160840533-2896f653-f51e-487a-b564-767167e81237.png)
 
-Laporan Praktikum
-Buatlah repository baru dengan nama Lab4Web.
-Kerjakan semua latihan yang diberikan sesuai urutannya.
-Screenshot setiap perubahannya.
-Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta screenshotnya.
+1.Laporan Praktikum
+
+2.Buatlah repository baru dengan nama Lab4Web.
+
+3.Kerjakan semua latihan yang diberikan sesuai urutannya.
+
+4.Screenshot setiap perubahannya.
+
+5.Buatlah file README.md dan tuliskan penjelasan dari setiap langkah praktikum beserta screenshotnya.
 Commit hasilnya pada repository masing-masing.
-Kirim URL repository pada e-learning ecampus
+
+6.Kirim URL repository pada e-learning ecampus
